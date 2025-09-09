@@ -1,0 +1,3 @@
+# Contact Us
+If you have any questions, feedback, or would like to request a specific use-case, please feel free to reach out to  <a href='mailto:cara.stallone@sap.com'>Cara Stallone</a>.
+You can also create an issue on <a href="https://github.tools.sap/sap-design-ops/fiori-moments/issues" target="_blank">Github</a> to report bugs or offer suggestions. We work best when building on each other’s ideas, so please send us your thoughts.
